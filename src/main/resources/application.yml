@@ -1,0 +1,13 @@
+nacos:
+  config:
+    server-addr: 39.97.231.147:8848
+  discovery:
+    server-addr: 39.97.231.147:8848
+
+# 端口号
+server:
+  port: 8081
+# 项目名称
+spring:
+  application:
+    name: nacos-customer
